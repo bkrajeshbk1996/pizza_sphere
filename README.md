@@ -1,4 +1,4 @@
-# Project 3
+# Pizza Sphere
 
 Web Programming with Python and JavaScript
 
